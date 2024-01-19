@@ -1,0 +1,26 @@
+.allDiv {
+    border: 3px solid #918787;
+    border-radius: 13px;
+    text-align: center;
+}
+#div1 {
+    background-color: rgb(177, 124, 140);
+    Width: 1830px;
+    height: 200px;
+    font-family:Verdana;
+    color: rgb(59, 47, 53);
+}
+#div2 {
+    background-color: rgb(240, 236, 237);
+    Width: 1830px;
+    height: 200px;
+    font-family:Verdana;
+    color: rgb(59, 47, 53);
+}
+#div3 {
+    background-color: rgb(58, 35, 42);
+    Width: 1835x;
+    height: 200px;
+    font-family:Verdana;
+    color: rgb(248, 245, 247);
+}
